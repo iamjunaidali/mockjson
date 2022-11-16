@@ -1,6 +1,26 @@
- {
-     "$id":"12|12 FALL22 The Organic Sweatpant Navy",
-     "$title":"The Organic Sweatpant, Navy",
-     "$link":"https://www.maisonette.com/product/the-organic-sweatpant-navy",
-     "$image_link":"https://assets.maisonette.com/spree/images/attachments/000/779/741/product_large/ex3cyp9dczoz49pkjay4.jpg?1667499037"
-  }
+{
+   "$id":"12|12 FALL22 The Organic Sweatpant Navy",
+   "$title":"The Organic Sweatpant, Navy",
+   "$link":"https://www.maisonette.com/product/the-organic-sweatpant-navy",
+   "$image_link":"https://assets.maisonette.com/spree/images/attachments/000/779/741/product_large/ex3cyp9dczoz49pkjay4.jpg?1667499037",
+   "$description":"New &amp; Improved Fit! Made from 100% super-soft organic french terry, these super cozy Sweatpants are the perfect complement to the matching Pullover.",
+   "brand":"12|12",
+   "total_on_hand":51,
+   "categories":[
+      "Gender: Baby Unisex",
+      "Gender: Unisex",
+      "Age Range: 0-6m",
+      "Age Range: 6-12m",
+      "Category: Kids",
+      "Category: Kids > Girl Clothing",
+      "Category: Kids > Boy Clothing",
+      "Category: Kids > Girl Clothing > Pants",
+      "Category: What's New",
+      "Category: What's New > Shops",
+      "Category: Kids > Boy Clothing > Pants",
+      "Category: What's New > Shops > Basics",
+      "Product Type: Sweatpants",
+      "Trend: Just In",
+      "Trend: New In Six Weeks"
+   ]
+}
